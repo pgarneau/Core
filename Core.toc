@@ -1,0 +1,14 @@
+## Interface: 11302
+## X-Min-Interface: 11302
+
+## Title: Core
+## Notes: Core
+## Author: Pgarneau
+## Version: 1.0.0
+## SavedVariablesPerCharacter: CoreTrashConfig, CoreActionBarConfig
+
+# main
+command.lua
+trash.lua
+actionBar.lua
+buffs.lua
